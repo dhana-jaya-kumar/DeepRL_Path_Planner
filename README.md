@@ -10,10 +10,10 @@ The absence robust and generalized path planner has been one of the greatest hin
 We selected a seemingly simple grid-world to first check the feasibility of our approach. Our need was rightly satisfied by a third party Gym environment named “MiniGrid”.
 
 <p align="center">
-   <img width="278" height="301" src="https://github.com/dhanajaya78/DeepRL_Path_Planner/blob/master/empty-env.png">
+   <img width="278" height="301" src="https://github.com/dhanajaya78/DeepRL_Path_Planner/blob/main/empty-env.png">
 </p>
 <p align="center">
-   <img width="400" height="480" src="https://github.com/dhanajaya78/DeepRL_Path_Planner/blob/master/dynamic_obstacles.gif">
+   <img width="400" height="480" src="https://github.com/dhanajaya78/DeepRL_Path_Planner/blob/main/dynamic_obstacles.gif">
  </p>
 
 ## On Going work:
